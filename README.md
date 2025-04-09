@@ -55,12 +55,5 @@ Dive deep into internal Keras customization using your own layers, training loop
 3. Follow the video walkthrough for in-depth explanation.
 4. Fork and extend for your own use cases!
 
----
-
-## 🧑‍💻 Author
-
-**Chandini**  
-M.S. Computer Software Engineering – San Jose State University  
-Cybersecurity & AI Security Researcher
 
 ---
