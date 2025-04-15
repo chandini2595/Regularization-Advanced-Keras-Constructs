@@ -17,7 +17,7 @@ Explore essential techniques to improve model generalization, avoid overfitting,
 |---------|-------------|------------|
 | `01_l1_l2_regularization.ipynb` | Demonstrates L1 and L2 regularization | [Open in Colab](https://colab.research.google.com/drive/1jx50ZwuLSdVNvl8BoTfC_J7OZmbswehn?usp=sharing) |
 | `02_dropout_variants.ipynb` | Standard vs Monte Carlo dropout | [Open in Colab](https://colab.research.google.com/drive/1_YAM3npPqGOFNG8OQ-RXf3JVznN5SmCD?usp=sharing) |
-| `03_early_stopping_tensorboard.ipynb` | Early stopping & TensorBoard | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/03_early_stopping_tensorboard.ipynb) |
+| `03_early_stopping_tensorboard.ipynb` | Early stopping & TensorBoard | [Open in Colab](https://colab.research.google.com/drive/19fKD9P7wBiV5RFZ9yuhGyj24oMaEs6Ol?usp=sharing) |
 | `04_initializations_batchnorm.ipynb` | Weight initializations + BatchNorm | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/04_initializations_batchnorm.ipynb) |
 | `05_custom_dropout_regularization.ipynb` | Custom dropout and regularizers | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/05_custom_dropout_regularization.ipynb) |
 | `06_keras_tuner_tensorboard_callbacks.ipynb` | Keras Tuner + callbacks | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/06_keras_tuner_tensorboard_callbacks.ipynb) |
