@@ -19,14 +19,14 @@ Explore essential techniques to improve model generalization, avoid overfitting,
 | `02_dropout_basics.ipynb` | Basics of standard dropout | [Open in Colab](https://colab.research.google.com/drive/1_YAM3npPqGOFNG8OQ-RXf3JVznN5SmCD?usp=sharing) |
 | `03_montecarlo_dropout.ipynb` | Monte Carlo dropout for uncertainty | [Open in Colab](https://colab.research.google.com/drive/15xoL8OoghlMOL_3CAC-hDwEFdq7BNX85?usp=sharing) |
 | `04_early_stopping_tensorboard.ipynb` | Early stopping & TensorBoard integration | [Open in Colab](https://colab.research.google.com/drive/1CrbijMbuy7ZlieRbt5uX17zhDiy4C5P4?usp=sharing) |
-| `05_initializations_comparison.ipynb` | Comparison of weight initializations | [Open in Colab](https://colab.research.google.com/drive/1d_mgR8xNoUJomgjoPAmCRq8LROhv02zb?usp=sharing) |
-| `06_batch_normalization.ipynb` | Deep dive into batch normalization | [Open in Colab](https://colab.research.google.com/drive/1d_mgR8xNoUJomgjoPAmCRq8LROhv02zb?usp=sharing) |
-| `07_custom_dropout_regularization.ipynb` | Custom dropout and regularizer implementations | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/05_custom_dropout_regularization.ipynb) |
-| `08_callbacks_tensorboard_keras_tuner.ipynb` | TensorBoard + Keras Tuner callbacks | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/06_keras_tuner_tensorboard_callbacks.ipynb) |
-| `09_keras_cv_augmentation.ipynb` | Image augmentation using KerasCV | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/07_keras_cv_augmentation.ipynb) |
-| `10_augly_data_augmentation.ipynb` | Multi-modal augmentation (image, video, text) with AugLy | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/08_data_augmentation_image_video_text.ipynb) |
-| `11_domain_specific_augmentation.ipynb` | Task-aware augmentation strategies | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/11_domain_specific_augmentation.ipynb) |
-| `12_fastai_data_augmentation.ipynb` | Augmentation using fastai pipelines | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/09_fastai_data_augmentation.ipynb) |
+| `05_initializations_comparison.ipynb` | Comparison of weight initializations | [Open in Colab](https://colab.research.google.com/drive/1mxpvxyfQMGx11f5LYYQpnJv8ZlypiRIA?usp=sharing) |
+| `06_batch_normalization.ipynb` | Deep dive into batch normalization | [Open in Colab](https://colab.research.google.com/drive/1x3CU7ZZaGvB3vBoE4YWND2sheCqQ8p-N?usp=sharing) |
+| `07_custom_dropout_regularization.ipynb` | Custom dropout and regularizer implementations | [Open in Colab](https://colab.research.google.com/drive/1fYay_jYN6asJo1HY_11GEq_ZY0YuBzL2?usp=sharing) |
+| `08_callbacks_tensorboard_keras_tuner.ipynb` | TensorBoard + Keras Tuner callbacks | [Open in Colab](https://colab.research.google.com/drive/1WVCGjHHiAxh1HLHr2XL6_FVYjYf0VCzl?usp=sharing) |
+| `09_keras_cv_augmentation.ipynb` | Image augmentation using KerasCV | [Open in Colab](https://colab.research.google.com/drive/16-8epeWCbSSqftk93C3QJCuSGSp0MJl9?usp=sharing) |
+| `10_augly_data_augmentation.ipynb` | Multi-modal augmentation (image, video, text) with AugLy | [Open in Colab](https://colab.research.google.com/drive/17uGhNnVQpthfeaL4gEsOgYTzwG5P2kxA?usp=sharing) |
+| `11_domain_specific_augmentation.ipynb` | Task-aware augmentation strategies | [Open in Colab](https://colab.research.google.com/drive/1RH6ztSj6yqkYm6jpUdUK6s6pml1D9KJa?usp=sharing) |
+| `12_fastai_data_augmentation.ipynb` | Augmentation using fastai pipelines | [Open in Colab](https://colab.research.google.com/drive/1BwODECnAqxzIUw_AeMEBMahyyS6Rnsa-?usp=sharing) |
 
 
 🎥 **[Watch Full Part 1 Walkthrough Video](https://youtu.be/part1-dummy-link)**
