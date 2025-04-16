@@ -18,7 +18,7 @@ Explore essential techniques to improve model generalization, avoid overfitting,
 | `01_l1_l2_regularization.ipynb` | Demonstrates L1 and L2 regularization | [Open in Colab](https://colab.research.google.com/drive/1jx50ZwuLSdVNvl8BoTfC_J7OZmbswehn?usp=sharing) |
 | `02_dropout_basics.ipynb` | Basics of standard dropout | [Open in Colab](https://colab.research.google.com/drive/1_YAM3npPqGOFNG8OQ-RXf3JVznN5SmCD?usp=sharing) |
 | `03_montecarlo_dropout.ipynb` | Monte Carlo dropout for uncertainty | [Open in Colab](https://colab.research.google.com/drive/15xoL8OoghlMOL_3CAC-hDwEFdq7BNX85?usp=sharing) |
-| `04_early_stopping_tensorboard.ipynb` | Early stopping & TensorBoard integration | [Open in Colab](https://colab.research.google.com/drive/19fKD9P7wBiV5RFZ9yuhGyj24oMaEs6Ol?usp=sharing) |
+| `04_early_stopping_tensorboard.ipynb` | Early stopping & TensorBoard integration | [Open in Colab](https://colab.research.google.com/drive/1CrbijMbuy7ZlieRbt5uX17zhDiy4C5P4?usp=sharing) |
 | `05_initializations_comparison.ipynb` | Comparison of weight initializations | [Open in Colab](https://colab.research.google.com/drive/1d_mgR8xNoUJomgjoPAmCRq8LROhv02zb?usp=sharing) |
 | `06_batch_normalization.ipynb` | Deep dive into batch normalization | [Open in Colab](https://colab.research.google.com/drive/1d_mgR8xNoUJomgjoPAmCRq8LROhv02zb?usp=sharing) |
 | `07_custom_dropout_regularization.ipynb` | Custom dropout and regularizer implementations | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part1_generalization/05_custom_dropout_regularization.ipynb) |
