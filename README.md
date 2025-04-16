@@ -39,14 +39,7 @@ Dive deep into internal Keras customization using your own layers, training loop
 
 | Notebook | Description | Colab Link |
 |----------|-------------|------------|
-| `01_custom_lr_scheduler_onecycle.ipynb` | OneCycle LR scheduler | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/01_custom_lr_scheduler_onecycle.ipynb) |
-| `02_custom_dropout_mc_alpha.ipynb` | Monte Carlo Alpha Dropout | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/02_custom_dropout_mc_alpha.ipynb) |
-| `03_custom_normalization.ipynb` | Custom normalization layers | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/03_custom_normalization.ipynb) |
-| `04_tensorboard_logging.ipynb` | Logging with TensorBoard | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/04_tensorboard_logging.ipynb) |
-| `05_custom_loss_activation_initializer.ipynb` | Loss, activations, initializers | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/05_custom_loss_activation_initializer.ipynb) |
-| `06_custom_metrics_layers.ipynb` | Custom metrics & layers | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/06_custom_metrics_layers.ipynb) |
-| `07_custom_model_architecture.ipynb` | Residual models | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/07_custom_model_architecture.ipynb) |
-| `08_custom_optimizer_loop.ipynb` | Custom optimizer and loop | [Open in Colab](https://colab.research.google.com/github/yourusername/deep-learning-regularization/blob/main/part2_advanced_keras/08_custom_optimizer_loop.ipynb) |
+| `part2_advanced_keras_deep_learning.ipynb` | Covers OneCycle LR scheduler, custom dropout (MC Alpha), normalization layers, TensorBoard logging, custom loss/activation/initializer, metrics/layers, residual models, and custom training loop | [Open in Colab](https://colab.research.google.com/drive/1q73loj2SZtItwF8lxT_d5Ik4cVU9_hzr?usp=sharing) |
 
 🎥 **[Watch Full Part 2 Walkthrough Video](https://youtu.be/part2-dummy-link)**
 
