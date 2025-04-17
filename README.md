@@ -29,7 +29,7 @@ Explore essential techniques to improve model generalization, avoid overfitting,
 | `12_fastai_data_augmentation.ipynb` | Augmentation using fastai pipelines | [Open in Colab](https://colab.research.google.com/drive/1BwODECnAqxzIUw_AeMEBMahyyS6Rnsa-?usp=sharing) |
 
 
-🎥 **[Watch Full Part 1 Walkthrough Video](https://youtu.be/part1-dummy-link)**
+🎥 **[Watch Full Part 1 Walkthrough Video](https://youtu.be/VwLMDHdFGCY)**
 
 ---
 
