@@ -41,7 +41,7 @@ Dive deep into internal Keras customization using your own layers, training loop
 |----------|-------------|------------|
 | `part2_advanced_keras_deep_learning.ipynb` | Covers OneCycle LR scheduler, custom dropout (MC Alpha), normalization layers, TensorBoard logging, custom loss/activation/initializer, metrics/layers, residual models, and custom training loop | [Open in Colab](https://colab.research.google.com/drive/1q73loj2SZtItwF8lxT_d5Ik4cVU9_hzr?usp=sharing) |
 
-🎥 **[Watch Full Part 2 Walkthrough Video](https://youtu.be/part2-dummy-link)**
+🎥 **[Watch Full Part 2 Walkthrough Video](https://youtu.be/9M6eoqCDRAo)**
 
 ---
 
